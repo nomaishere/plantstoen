@@ -1,11 +1,11 @@
-### Sangmin Kim(@plantstoen)
+## 개발을 좋아하는 프로덕트 매니저, 김상민입니다.
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:plantstoen@gmail.com)](mailto:plantstoen@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/style=for-the-badge&logo=Medium&logoColor=black&link=medium.com/@plantstoen)](medium.com/@plantstoen)
 
+### 🔥 진행 중인 프로젝트
+- 가나다라
 
-[![plantstoen's github stats](https://github-readme-stats.vercel.app/api?username=plantstoen&show_icons=true&hide_border=true)](https://github.com/plantstoen)
-
-### 이런 일들을 하고 있습니다
 
 ### 🌱 이런 것들에 관심이 있습니다
 
