@@ -7,7 +7,7 @@
 - 리드라이트
 - 
 
-<div>
+<div float="left">
   <div style="width: 50%; background-color: red">
     <strong>🚀 프로덕트 매니저로서의 저는 이런 사람입니다</strong>
       - 가나다라마바사
