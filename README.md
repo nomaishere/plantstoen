@@ -1,8 +1,5 @@
 <h2>🎒 기술을 사랑하는 프로덕트 매니저, <strong>김상민</strong>입니다.</h2>
 
-> _내가 모르는 것은 관리할 수 없다_
-
-한 조직을 이끌기 위해선, 그 구성원들이 하는 일을 알아야 한다고 생각하며 오늘도 더 나은 서비스를 만들기 위해 노력합니다.<br>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:plantstoen@gmail.com)](mailto:plantstoen@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@plantstoen)](https://medium.com/@plantstoen)
 
