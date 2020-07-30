@@ -1,38 +1,25 @@
-## 기술을 사랑하는 프로덕트 매니저, 김상민입니다.
+<h2>🎒 기술을 사랑하는 프로덕트 매니저, <strong>김상민</strong>입니다.</h2>
 
+> _내가 모르는 것은 관리할 수 없다_
+
+한 조직을 이끌기 위해선, 그 구성원들이 하는 일을 알아야 한다고 생각하며 오늘도 더 나은 서비스를 만들기 위해 노력합니다.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:plantstoen@gmail.com)](mailto:plantstoen@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@plantstoen)](https://medium.com/@plantstoen)
 
-### 🔥진행 중인 프로젝트
+### 🚀 프로덕트 매니저로서의 저는 이런 사람입니다
 
-<strong>📚리드라이트</strong> - 택배로 빌려보는 무제한 종이책
-<strong>🤖택트풀카트</strong> - 추후 공개 예정!
+- 모바일/웹은 물론 O2O나 IOT등 전반적인 IT서비스의 UX를 설계합니다
+- 바텀업 방식의 아이디어 접근을 선호하며 최악의 시나리오를 가장 먼저 준비합니다
+- 꾸준히 개발을 하며 기술 스택, 트렌드에 대한 분석을 통해 경영과 엔지니어링을 가깝게 합니다
 
-<div style="display:flex">
-  <div style="width:48%;">
-    <h3>🚀 프로덕트 매니저로서의 나</h3>
-      UI&UX - <br>
-      Scrum Mastering<br>
-  </div>
-  <div style="width: 48%;">
-    <h3>💻 개발자로서의 나</h3>
-    React, Typescript를 이용해<br>
-    아토믹 디자인 패턴과<br>
-    ROS로 기본적인 Node작성과 Visual<br>
-    SLAM과 Navigation을 이용한 모바일 로봇 제어<br>
-  </div>
-</div>
+### 💻 개발자로서의 저는 이런 사람입니다
 
-### :dart: 이런 사람이 되고자 합니다
+- React, Typescript를 이용해 프론트엔드를 구현할 수 있습니다
+- 아토믹 디자인 패턴, Hooks 등을 통한 재사용 가능한 코드를 위해 노력합니다
+- ROS로 기본적인 Node를 작성하고 MCU와 를 개발합니다
+- SLAM과 Navigation을 이용해 실내 환경에서의 모바일 로봇을 개발합니다
 
-> "내가 모르는 것은 관리할 수 없다"
+### 🌱 요즘은 이런 것들에 관심이 있습니다
 
-한 조직을 이끌기 위해선 그 조직이 하는 일을 알아야 한다고 생각합니다. 가나다라마바사아자차카타파하가나다라마바ㅅ
-
-### :seedling: 이런 것들에 관심이 있습니다
-
-- 소규모 조직에서의 OKR과 평가 시스템
-- Real-Time Reinforcerment Learning
-- Git-flow 전략과 CI/CD
-- 타입스크립트를 이용한 클린 코드
-- Next.js와 SSR
+- 토스, 스포티파이가 사용하는 애자일 방법론 헬릭스(Helix)
+- Real-Time Reinforcement Learning
