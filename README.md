@@ -18,6 +18,5 @@
 
 ### 🌱 요즘은 이런 것들에 관심이 있습니다
 
-- Next.js 기반 SSR 프로젝트의 deploy를 위한 Node.js서버 및 Docker
-- Component Optimization & SEO
+- 수능....하하... 올해 수험생입니다.  2021년 말까진 학업에만 집중할 계획입니다.
 
